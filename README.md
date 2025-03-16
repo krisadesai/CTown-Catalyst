@@ -46,9 +46,3 @@ The system **instantly provides personalized recommendations** along with **Goog
 - **Expanding restaurant coverage** with **real-time menu updates**.  
 - **User reviews & engagement** to improve recommendation accuracy.  
 - **Business partnerships** to provide **exclusive discounts & offers** through the platform.  
-
-## 📌 How to Run Locally  
-
-### 1️⃣ Install Dependencies  
-```bash
-pip install -r requirements.txt
